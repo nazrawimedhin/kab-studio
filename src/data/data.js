@@ -12,7 +12,7 @@ export const meets = [
     title: "meeting1",
     description:
       "lorem ipsum dolerant nonummy non pro id et justo fswfwe ewfewf fwef th 45y5t54t 4qd qwdqwd wqdqwd wdqwdqw wdwdqw dewfget gergreg yhyth",
-    date: "12/12/2024",
+    date: "08/12/2024",
     participants: [
       {
         name: "John Doe",
@@ -36,7 +36,7 @@ export const meets = [
     title: "meeting1",
     description:
       "lorem ipsum dolerant nonummy non pro id et justo fswfwe ewfewf fwef th 45y5t54t 4qd qwdqwd wqdqwd wdqwdqw wdwdqw dewfget gergreg yhyth",
-    date: "12/12/2024",
+    date: "08/12/2024",
     participants: [
       {
         name: "John Doe",
@@ -60,7 +60,7 @@ export const meets = [
     title: "meeting1",
     description:
       "lorem ipsum dolerant nonummy non pro id et justo fswfwe ewfewf fwef th 45y5t54t 4qd qwdqwd wqdqwd wdqwdqw wdwdqw dewfget gergreg yhyth",
-    date: "12/12/2024",
+    date: "08/12/2024",
     participants: [
       {
         name: "John Doe",
@@ -84,7 +84,7 @@ export const meets = [
     title: "meeting1",
     description:
       "lorem ipsum dolerant nonummy non pro id et justo fswfwe ewfewf fwef th 45y5t54t 4qd qwdqwd wqdqwd wdqwdqw wdwdqw dewfget gergreg yhyth",
-    date: "12/12/2024",
+    date: "08/12/2024",
     participants: [
       {
         name: "John Doe",
@@ -108,7 +108,7 @@ export const meets = [
     title: "meeting1",
     description:
       "lorem ipsum dolerant nonummy non pro id et justo fswfwe ewfewf fwef th 45y5t54t 4qd qwdqwd wqdqwd wdqwdqw wdwdqw dewfget gergreg yhyth",
-    date: "12/12/2024",
+    date: "08/12/2024",
     participants: [
       {
         name: "John Doe",
@@ -132,7 +132,7 @@ export const meets = [
     title: "meeting1",
     description:
       "lorem ipsum dolerant nonummy non pro id et justo fswfwe ewfewf fwef th 45y5t54t 4qd qwdqwd wqdqwd wdqwdqw wdwdqw dewfget gergreg yhyth",
-    date: "12/12/2024",
+    date: "08/12/2024",
     participants: [
       {
         name: "John Doe",
@@ -156,7 +156,7 @@ export const meets = [
     title: "meeting1",
     description:
       "lorem ipsum dolerant nonummy non pro id et justo fswfwe ewfewf fwef th 45y5t54t 4qd qwdqwd wqdqwd wdqwdqw wdwdqw dewfget gergreg yhyth",
-    date: "12/12/2024",
+    date: "08/12/2024",
     participants: [
       {
         name: "John Doe",
@@ -180,7 +180,7 @@ export const meets = [
     title: "meeting1",
     description:
       "lorem ipsum dolerant nonummy non pro id et justo fswfwe ewfewf fwef th 45y5t54t 4qd qwdqwd wqdqwd wdqwdqw wdwdqw dewfget gergreg yhyth",
-    date: "12/12/2024",
+    date: "08/12/2024",
     participants: [
       {
         name: "John Doe",
@@ -204,7 +204,7 @@ export const meets = [
     title: "meeting1",
     description:
       "lorem ipsum dolerant nonummy non pro id et justo fswfwe ewfewf fwef th 45y5t54t 4qd qwdqwd wqdqwd wdqwdqw wdwdqw dewfget gergreg yhyth",
-    date: "12/12/2024",
+    date: "08/12/2024",
     participants: [
       {
         name: "John Doe",
@@ -233,7 +233,7 @@ export const projects = [
       "The Project novel meta is a forward-thinking project that aims to blend modern design with sustainable practices. Our approach is to create spaces that not only inspire but also promote environmental stewardship.",
     covers: [image1, image2, image3],
     files: [file1, file2, file3],
-    date: "12/12/2024",
+    date: "08/12/2024",
     sharedBy: {
       name: "John Doe",
       email: "jhon.doe@gmail.com",
@@ -247,7 +247,7 @@ export const projects = [
       "The Project novel meta is a forward-thinking project that aims to blend modern design with sustainable practices. Our approach is to create spaces that not only inspire but also promote environmental stewardship.",
     covers: [image1, image2, image3],
     files: [file1, file2, file3],
-    date: "12/12/2024",
+    date: "08/12/2024",
     sharedBy: {
       name: "John Doe",
       email: "jhon.doe@gmail.com",
@@ -261,7 +261,7 @@ export const projects = [
       "The Project novel meta is a forward-thinking project that aims to blend modern design with sustainable practices. Our approach is to create spaces that not only inspire but also promote environmental stewardship.",
     covers: [image1, image2, image3],
     files: [file1, file2, file3],
-    date: "12/12/2024",
+    date: "08/12/2024",
     sharedBy: {
       name: "John Doe",
       email: "jhon.doe@gmail.com",

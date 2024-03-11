@@ -4,6 +4,7 @@ import SpeedDialIcon from "@mui/material/SpeedDialIcon";
 import SpeedDialAction from "@mui/material/SpeedDialAction";
 import AddCardIcon from "@mui/icons-material/AddCard";
 import CreateNewFolderIcon from "@mui/icons-material/CreateNewFolder";
+import { green } from "@mui/material/colors";
 
 const actions = [
   { icon: <AddCardIcon />, name: "Create Meeting" },
@@ -13,7 +14,7 @@ const actions = [
 export default function Dial() {
   return (
     <Box sx={{ height: 320, transform: "translateZ(0px)", flexGrow: 1 }}>
-      <SpeedDial ariaLabel="SpeedDial basic example" icon={<SpeedDialIcon />}>
+      <SpeedDial ariaLabel="SpeedDial" icon={<SpeedDialIcon />}>
         {actions.map((action) => (
           <SpeedDialAction
             key={action.name}

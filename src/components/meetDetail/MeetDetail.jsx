@@ -6,20 +6,20 @@ function MeetDetail() {
   const participants = meets[0].participants;
 
   return (
-    <Stack direction="row" spacing={4} mx={8} mt={3}>
+    <Stack direction="row" spacing={4} mx={10} mt={3}>
       <Card sx={{ width: "50%", boxShadow: "initial" }}>
         <Typography m={2} fontSize={21}>
           Title of the meeting
         </Typography>
-        <Typography m={3}>
+        <Typography m={2}>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet ut
           facere accusantium dolorem commodi repellendus! Mollitia ratione
           facilis totam magnam eligendi commodi repellendus!
         </Typography>
-        <Typography sx={{ mb: 1, fontSize: 14, ml: 3 }} color="text.secondary">
+        <Typography sx={{ mb: 1, fontSize: 14, ml: 2 }} color="text.secondary">
           12/12/2024
         </Typography>
-        <Typography variant="body2" ml={3} mt={2}>
+        <Typography variant="body2" ml={2} mt={2}>
           3 peoples
         </Typography>
       </Card>
